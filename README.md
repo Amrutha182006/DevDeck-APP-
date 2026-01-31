@@ -27,8 +27,6 @@ Built with Flutter and powered by a robust hybrid backend of Firebase and Supaba
 
 
 # 📸 Snapshots
-
-(Place screenshots of your app here: Login Screen, Feed, Project Detail, Chat)
 ## 📸 App Screenshots
 
 <p align="center">
